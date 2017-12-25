@@ -1,4 +1,4 @@
-package org.spring.test.springcloudservice;
+package org.aks.cloud.service;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
