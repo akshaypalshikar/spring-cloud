@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-cloud-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: aksma
+Implementation-Vendor-Id: org.spring.test
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/spring-cloud-service/
+Created-By: Maven Integration for Eclipse
+
