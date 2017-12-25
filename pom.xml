@@ -4,6 +4,7 @@
 	<groupId>org.spring.test</groupId>
 	<artifactId>spring-cloud</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
 
 	<modules>
 		<module>spring-cloud-config</module>
